@@ -12,25 +12,23 @@ This is written in Python3(Library is not created in this coding). It's easy for
 
 ## Demo
 
-https://gyazo.com/8a8c9d8e5f470648606a2d9cf7ffd2d8
+
 
 ## Requirement
 
-You have to prepare the environment of Python3. Ex) Anaconda
+You have to prepare the environment of Python3.
 
 ## Usage
 
-After installing all files, open 
+After installing all files, type "python3 project.py" in terminal.
 
-## Install
+## Install(terminal)
 
-git clone https://github.com/ono-max/PixelArtMaker.git
-
-python3 
+git clone https://github.com/ono-max/AdventureGame.git
 
 ## Contribution
 
-1. Fork it ( http://github.com//rbdock/fork )
+1. Fork it ( https://github.com/ono-max/AdventureGame.git )
 2. Create your feature branch (git checkout -b my-new-feature)
 3. Commit your changes (git commit -am 'Add some feature')
 4. Push to the branch (git push origin my-new-feature)
